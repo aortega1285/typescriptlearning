@@ -1,0 +1,2 @@
+# typescriptlearning
+learning typscript
